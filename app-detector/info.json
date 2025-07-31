@@ -1,0 +1,15 @@
+{
+    "version": "1.0.2",
+    "download_url": "https://ibra-media.github.io/app-detector/app-detector-1.0.2.zip",
+
+    "requires": "5.0",
+    "requires_php": "7.4",
+    "tested": "6.4",
+    "last_updated": "2025-01-15",
+    "homepage": "https://ibra-media.github.io/app-detector",
+    "sections": {
+        "description": "A WordPress plugin that detects mobile devices and shows appropriate app store links or opens the app if it's installed.",
+        "installation": "1. Upload the plugin files to your WordPress site's `/wp-content/plugins/app-detector/` directory\n2. Activate the plugin through the 'Plugins' menu in WordPress\n3. Go to Settings > App Detector to configure your app settings",
+        "changelog": "## Version 1.0.2\n- Fixed mobile device detection issues\n- Improved async/await implementation\n- Enhanced error handling\n- Better compatibility with modern mobile browsers\n\n## Version 1.0.1\n- Added version control system\n- Implemented session-based popup dismissal\n- Enhanced admin interface\n- Added copyright and contact information\n\n## Version 1.0.0\n- Initial release\n- Mobile device detection\n- App installation detection\n- Smart popup system"   
+    }
+} 
